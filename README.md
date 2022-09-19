@@ -1,1 +1,1 @@
-# clojure-trader
+# meta-game
